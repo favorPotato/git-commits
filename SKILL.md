@@ -141,4 +141,4 @@ description: 起草、编辑、评审提交说明，执行 git commit 或 amend�
 
 ## 整理历史
 
-用户要拆分、合并、重排已有提交时，读 `references/reorganize.md`。只改提交说明不算整理。
+用户要拆分、合并、重排已有提交时，读 `references/reorganize.md`。只改提交说明不算整理；批量修改已提交的说明时，读 `references/reword.md`。
